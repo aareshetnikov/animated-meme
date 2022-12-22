@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wo2QOBW8Z0pJLqOrxQ59nqrPENP1zLlTAFG+gsj2uzMBnWS3e6UVASPI575wZI/6xggfp8jQ6oawQiLup1tz1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\3.0.0\\nunit.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.console\\3.14.0\\nunit.console.3.14.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.consolerunner\\3.14.0\\nunit.consolerunner.3.14.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
